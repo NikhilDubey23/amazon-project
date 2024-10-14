@@ -253,7 +253,7 @@ ul p{
     background-color: #0f1111;
     color: white;
     display: flex;
-    text-align: center;
+/*     text-align: center; */
     align-items: center;
     justify-content: center;
     height: 30px;
